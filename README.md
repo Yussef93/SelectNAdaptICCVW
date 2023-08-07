@@ -1,2 +1,2 @@
 # SelectNAdaptICCVW
-[ICCVW'23] SelectNAdapt: Support Set Selection for Few-Shot Domain Adaptation
+This is an official implementation of the paper "SelectNAdapt: Support Set Selection for Few-Shot Domain Adaptation". Code will be available soon!
