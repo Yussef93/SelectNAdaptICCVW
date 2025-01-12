@@ -1,7 +1,7 @@
 # SelectNAdaptICCVW
 This is an official implementation of the paper "SelectNAdapt: Support Set Selection for Few-Shot Domain Adaptation". 
 
-🚀 ## Abstract
+## Abstract 🚀
 ![Alt Text](/selectnadapt/assets/Picture1.png "Logo of the Project")
 
 Generalisation of deep neural networks becomes vulner￾able when distribution shifts are encountered between train
