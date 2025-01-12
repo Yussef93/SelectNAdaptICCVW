@@ -17,12 +17,12 @@ To download PACS dataset please visit this [link](https://www.kaggle.com/dataset
 Datasets should be placed inside "./DATA/selectnadapt/imcls/data"
 
 ## Models
-The source and self-supervised trained models can be downloaded from [here](https://faubox.rrze.uni-erlangen.de/getlink/fi2aftRT82WZcSrtw2CrTk/) and place them inside "output_source_models/" and "output_ss_models/" respectively.
+The source and self-supervised (BYOL) trained models can be downloaded from [here](https://faubox.rrze.uni-erlangen.de/getlink/fi2aftRT82WZcSrtw2CrTk/) and place them inside "output_source_models/" and "output_ss_models/" respectively.
 
 ## Run Code
 To execute the selection process, you'll have to execute the following command, e.g.
 ```
-python select_pacs.py --ouput_dir ""
+python select_pacs.py --ouput_dir <NAME>
 ```
 ## Citation 
 ```
